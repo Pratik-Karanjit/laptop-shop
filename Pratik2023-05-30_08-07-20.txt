@@ -1,0 +1,25 @@
+
+						 Pratik Laptop Shop
+
+							Your bill 
+
+Date:2023-05-30_08-07-20
+
+Customer Name: Pratik
+Customer Phone Number: 9856
+Customer Address:None
+
+						Laptop Details: 
+---------------------------------------------------------------------------------------
+	Item name 		 Company Name 	Total Quantity	Laptop Price	 Total
+---------------------------------------------------------------------------------------
+	 Razer X		    Razer			2	 	   $2000		$4000	
+	 XPS		    	    Dell			2	 	   $1976		$3952	
+
+---------------------------------------------------------------------------------------
+
+										Your Shopping Cost is: $50
+								Grand Total(With Shipping cost): $8002
+
+THANK YOU FOR CHOOSING PRATIK'S LAPTOP STORE! 
+DO VISIT AGAIN! 
